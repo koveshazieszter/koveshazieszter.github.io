@@ -263,8 +263,13 @@
 			
 			margin-left:-25%
 		 }
+		 .hok{margin-left:15%;   
+			width:20%;
+			
+		}
+		.icon-hobby{margin-left:50px
 
-
+		}}
 		  
 
 /*Small phone from 0 to 400pc*/
@@ -307,7 +312,7 @@
 		display: none;
 	}
 	h1 {
-		font-size: 180%;
+		font-size: 170%;
 		margin-left:-60px;
 	}
 	
@@ -325,7 +330,7 @@
 	.am{font-size: 130%;}
 	.my-name {
 		
-		font-size:300%;
+		font-size:240%;
 		margin-left:5px;
 	}
 	.col {
@@ -353,14 +358,15 @@
 				width:170%;
 			margin-left:-25px;}
 			.hok{margin-left:20%;   
-				width:20%;
+				width:10%;
+				font-size:90%;
 				
 			}
-			.icon-hobby{margin-left:100px;}
+			.icon-hobby{margin-left:50px;}
 			.circle-chart {
 				width: 120px;
 				height: 130px;
-				padding:2px;
+				padding:1px;
 				margin-left:-5;
 				}
 		
@@ -374,4 +380,5 @@
 					margin: 0 -54px;
 					float: left;
 		  
+}
 }
