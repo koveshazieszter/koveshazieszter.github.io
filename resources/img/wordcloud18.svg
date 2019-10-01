@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Varela Round:normal:latin-ext); </style>
+</defs>
+<clipPath id="cp2">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp2)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="transparent" stroke="none">
+</rect>
+<text x="-104.5" y="10.839149999999997" style="font: normal 108.3915px Varela Round" text-anchor="start" dy="42.842490118577075" opacity="1" fill="#7cd8cccc" stroke="none" transform="translate(510, 384)">CSS</text>
+<text x="-105.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#005f61" stroke="none" transform="translate(494, 318)">HTML</text>
+<text x="-93.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#058574" stroke="none" transform="translate(526, 450)">Word</text>
+<text x="-152.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#585858e0" stroke="none" transform="translate(518, 494)">Inkscape</text>
+<text x="-198.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#585858e0" stroke="none" transform="translate(492, 262)">PowerPoint</text>
+<text x="-137.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#0272638f" stroke="none" transform="translate(342, 542)">Outlook</text>
+<text x="-92.5" y="7.226099999999999" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill=" #0272638f" stroke="none" transform="translate(364, 408) rotate(36.185848686103874)">Gimp</text>
+<text x="-90.89167022705078" y="7.223831909179683" style="font: normal 72.261px Varela Round" text-anchor="start" dy="28.561660079051382" opacity="1" fill="#058574" stroke="none" transform="translate(424, 218)">Excel</text>
+<text x="-86" y="3.6130499999999994" style="font: normal 36.1305px Varela Round" text-anchor="start" dy="14.280830039525691" opacity="1" fill="#058574" stroke="none" transform="translate(660, 312)">Javascript</text>
+</svg>
